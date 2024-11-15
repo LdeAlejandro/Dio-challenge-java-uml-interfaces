@@ -25,5 +25,21 @@ Abaixo está o diagrama UML que representa a estrutura do projeto:
    - `adicionarNovaAba()`: Adiciona uma nova aba no navegador.
    - `atualizarPagina()`: Atualiza a página atual.
 
-## 📁 Estrutura do Projeto
+# 📱 Saída Esperada do Programa
+
+```plaintext
+Selecionando Musica: Enemy - Imagine Dragons
+Tocar música
+Pausar música
+*********************
+Ligação entrante
+Atender ligação
+Desligar
+Ligar para número: +55 43245234
+Iniciar correio de voz
+*********************
+Adicionando nova aba do navegador
+Exibir Pagina: example.com
+Atualizando pagina
+```
 
